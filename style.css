@@ -1,0 +1,48 @@
+.wrap{
+	//float: left;
+	overflow: hidden;
+	display: block;
+	width: 80%;
+	margin: 0px auto;
+}
+
+.item{
+	//float: left;
+	display: inline-block;
+	overflow: hidden;
+	width: 30%;
+	border: 1px solid green;
+	height: 200px;
+	border-radius: 10px;
+	margin: 5px 0.5%;
+}
+
+.a4{
+	float: left;
+	clear: left;	
+}
+.a5{
+	float: left;
+	clear: left;
+}
+.a5 img{
+	//width: 120%;
+}
+.a6{
+	width: 62%;
+	height: 410px;
+	
+}
+.a6 img{
+	//width: 120%;
+}
+.a7{
+	clear: left;
+	width: 93%;
+	height: 400px;
+}
+
+img{
+	width: 100%;
+	//height: 100%;
+}
